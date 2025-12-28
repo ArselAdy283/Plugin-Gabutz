@@ -1,0 +1,24 @@
+name: PluginRandom
+version: '1.0-SNAPSHOT'
+main: dev.ArselAdy.pluginRandom.PluginRandom
+api-version: '1.21'
+authors: [ ArselAdy ]
+description: Arphone Roleplay plugin
+
+commands:
+  nv:
+    description: Toggle Night Vision
+    usage: /nv
+
+  seribubayangan:
+    description: Spawn Banyak Bayangan
+    usage: /seribubayangan
+
+permissions:
+  nv.use:
+    description: Allow command /nv
+    default: true
+
+  seribuBayangan.use:
+    description: Allow command /seribubayangan
+    default: true
