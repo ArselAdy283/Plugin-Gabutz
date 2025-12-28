@@ -1,2 +1,3 @@
 # PLUGIN GABUTZ
-## FITURNYA: /nv, /seribubayangan
+FITURNYA:  
+/nv, /seribubayangan
